@@ -12,7 +12,6 @@ from itertools import tee, islice, chain, zip_longest
 from decimal import Decimal
 import glob
 import tkinter.messagebox
-from winreg import *
 import time
 from bs4 import BeautifulSoup
 
