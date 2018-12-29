@@ -24,7 +24,7 @@ from bs4 import BeautifulSoup
 #       http://radar.weather.gov/ridge/RadarImg/N0R/ICX/ICX_20150503_2103_N0R.gif
 
 class Application(Frame):
-    """ A Gui Application With Three Buttons"""
+
     def __init__(self, master):
 
         Frame.__init__(self, master)
