@@ -1,4 +1,4 @@
-NOAA Animator
+NOAA Animator GUI
 
 ![Prev](http://rankinstudio.com/dnloads/Images/NoaaAnimatorPrev.JPG)
 
